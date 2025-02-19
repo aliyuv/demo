@@ -1,6 +1,6 @@
 import React from 'react';
 import './global.css'
-export default function Demo3(): React.ReactElement {
+export default function Demo2(): React.ReactElement {
   return (
     <div>
       {/* 100vh 容器 */}
